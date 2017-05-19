@@ -24,4 +24,4 @@ Examples of non-assignable expressions include:
 
 Always make sure that the expression bound via `ngModel` directive can be assigned to.
 
-For more information, see the {@link ng.directive:ngModel ngModel API doc}.
+For more information, see the {@link ng.directive:ngModel ngModel API doc}.a
